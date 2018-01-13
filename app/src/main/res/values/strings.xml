@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButton_test</string>
+    <string name="mytextview2">哪个城市最适合度假</string>
+    <string name="button4">云南</string>
+    <string name="button3">成都</string>
+    <string name="button2">海南</string>
+    <string name="button1">杭州</string>
+    <string name="mytextview">mytextview</string>
+</resources>
